@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome!
+
+This is a collection of exploratory, demonstration, and other fun projects I am working on including Large Language Model (LLM), Agents, Retrieval-Augmented Generation (RAG), and more.
+
+
+
+### Langchain LLM with RAG to analyze NFL player statistics
+
+Using Langchain and a locally-hosted LLM, create an agent to analyze NFL player data in a CSV file.
+
+[langchain_csv_rag](https://github.com/azlarry/langchain_csv_rag)
 
 <!--
 **azlarry/azlarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
