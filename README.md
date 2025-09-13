@@ -6,7 +6,7 @@ This is a collection of exploratory, demonstration, and other fun projects I am 
 
 ### Langchain LLM with RAG to analyze NFL player statistics
 
-Using Langchain and a locally-hosted LLM, create an agent to analyze NFL player data in a CSV file.
+Use Langchain and RAG to leverage data in a CSV file to improve LLM responses.
 
 [langchain_csv_rag](https://github.com/azlarry/langchain_csv_rag)
 
