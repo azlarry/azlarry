@@ -11,7 +11,7 @@ Use Langchain and RAG to leverage data in a CSV file to improve LLM responses.
 
 ### Langchain LLM with RAG + Vector database to analyze NFL player statistics
 
-Use Langchain and RAG to leverage data in vector database to improve LLM responses.
+Use Langchain and RAG to leverage data in a vector database to improve LLM responses.
 
 [langchain_rag_vectordb](https://github.com/azlarry/langchain_rag_vectordb)
 
