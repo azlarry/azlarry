@@ -13,7 +13,7 @@ Use Langchain and RAG to leverage data in a CSV file to improve LLM responses.
 
 Use Langchain and RAG to leverage data in vector database to improve LLM responses.
 
-[langchain_rag_vectordb]([https://github.com/azlarry/langchain_csv_rag](https://github.com/azlarry/langchain_rag_vectordb))
+[langchain_rag_vectordb](https://github.com/azlarry/langchain_csv_rag](https://github.com/azlarry/langchain_rag_vectordb)
 
 <!--
 **azlarry/azlarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
