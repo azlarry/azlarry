@@ -9,6 +9,12 @@ Use Low-Rank Adaptation (LoRA) fine-tuning to improve LLM responses.
 
 [model_fine_tuning_mlx_lm](https://github.com/azlarry/model_fine_tuning_mlx_lm)
 
+### Langchain LLM with RAG + PDF to query technical documents
+
+Use Langchain and RAG to leverage data in PDF technical document to improve LLM responses.
+
+[langchain_pdf_rag](https://github.com/azlarry/langchain_pdf_rag)
+
 ### Langchain LLM with RAG + Vector database to analyze NFL player statistics
 
 Use Langchain and RAG to leverage data in a vector database to improve LLM responses.
